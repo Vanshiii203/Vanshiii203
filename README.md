@@ -8,9 +8,10 @@
   
 ---
 <h1> My Skills </h1>
--Data Analytics: 🐬 MySQL, 📊 Power BI, 📈 Excel
--Programming: 🐍 Python (basic), 🔵 R (basic)
--Creative: 🎥 Video Editing (Premiere Pro)
--Social Media Management: 💼 Freelance experience in both video editing and social media management
+- Data Analytics: 🐬 MySQL, 📊 Power BI, 📈 Excel
+- Programming: 🐍 Python (basic), 🔵 R (basic)
+- Creative: 🎥 Video Editing (Premiere Pro)
+- Social Media Management: 💼 Freelance experience in both video editing and social media management
+
 ---
 Feel free to connect with me!
